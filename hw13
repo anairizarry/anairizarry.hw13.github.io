@@ -1,10 +1,1 @@
- <!DOCTYPE html>
-  <html lang="en">
-    <head>
-      <meta charset="UTF-8">
-      <title>Document</title>
-    </head>       
-    <body>
-https://www.google.com/fusiontables/DataSource?docid=1x-e5MCqBuuYQF2MMUmIoWz6VkmwkN34BhRd6BuRN
-    </body>
-  </html>
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col10+from+1x-e5MCqBuuYQF2MMUmIoWz6VkmwkN34BhRd6BuRN&amp;viz=MAP&amp;h=false&amp;lat=37.95064423378754&amp;lng=-90.562412&amp;t=1&amp;z=4&amp;l=col10&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
